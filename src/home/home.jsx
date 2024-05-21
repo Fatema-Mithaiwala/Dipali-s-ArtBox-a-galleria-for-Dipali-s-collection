@@ -2,18 +2,18 @@ import React from 'react'
 import { Box, Flex, Grid, GridItem, Link, Card, CardBody, Center, Button, Text, SimpleGrid, CardHeader, Heading, CardFooter, Image, IconButton, Stack, Collapse, Icon, Popover,PopoverTrigger,PopoverContent,useColorModeValue,useBreakpointValue,useDisclosure, } from '@chakra-ui/react'
 
 
-import pebbles_bg from '../assets/pebble_art_3.jpg'
-import pebbles_bg_2 from '../assets/pebbles_bg.jpg'
-import pebbles_art_sample_1 from '../assets/pebble_art_sample_1.jpg'
-import p1 from "../assets/1.jpg"
-import p2 from './../assets/2.jpg'
+import pebbles_bg from '/src/assets/pebble_art_3.jpg'
+import pebbles_bg_2 from '/src/assets/pebbles_bg.jpg'
+import pebbles_art_sample_1 from '/src/assets/pebble_art_sample_1.jpg'
+import p1 from "/src/assets/1.jpg"
+import p2 from '/src/assets/2.jpg'
 
-import p3 from '../assets/3.jpg'
-import p4 from '../assets/4.png'
-import p5 from '../assets/5.jpg'
-import logo from '../assets/logo.jpeg'
-import p6 from '../assets/6.jpg'
-import bg1 from '../assets/bg7.jpg'
+import p3 from '/src/assets/3.jpg'
+import p4 from '/src/assets/4.png'
+import p5 from '/src/assets/5.jpg'
+import logo from '/src/assets/logo.jpeg'
+import p6 from '/src/assets/6.jpg'
+import bg1 from '/src/assets/bg7.jpg'
 
 
 
