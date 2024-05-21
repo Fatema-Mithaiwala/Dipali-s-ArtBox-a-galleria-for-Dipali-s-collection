@@ -5,8 +5,9 @@ import { Box, Flex, Grid, GridItem, Link, Card, CardBody, Center, Button, Text, 
 import pebbles_bg from '../assets/pebble_art_3.jpg'
 import pebbles_bg_2 from '../assets/pebbles_bg.jpg'
 import pebbles_art_sample_1 from '../assets/pebble_art_sample_1.jpg'
-import p1 from '../assets/1.jpg'
-import p2 from '../assets/2.jpg'
+import p1 from "../assets/1.jpg"
+import p2 from './../assets/2.jpg'
+
 import p3 from '../assets/3.jpg'
 import p4 from '../assets/4.png'
 import p5 from '../assets/5.jpg'
